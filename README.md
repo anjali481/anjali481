@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjali481
 - 👀 I’m interested in Machine Learning,Deep Learning,React JS,Javascript,Node JS
-- ✨Pursuing Btech @ VIT,pune ,currently in second year
+- ✨Pursuing Btech @ VIT,pune ,currently in third year
 - 🌱 I’m currently exploring Blockchain
   
 
